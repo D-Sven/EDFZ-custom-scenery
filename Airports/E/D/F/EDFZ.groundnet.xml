@@ -9,5 +9,7 @@
         <Parking index="5" type="gate" name="Towplane08" lat="N49 57.98365" lon="E8 8.55702" heading="170.000000" />
         <Parking index="6" type="gate" name="Apron" lat="N49 58.26532" lon="E8 8.9845" heading="73.000000" />
         <Parking index="7" type="gate" name="Apron2" lat="N49 58.27232" lon="E8 9.00878" heading="73.000000" />
+        <Parking index="8" type="gate" name="H1" lat="N49 58.20633" lon="E8 8.87322" heading="170.000000" />
+        <Parking index="9" type="gate" name="H2" lat="N49 58.25792" lon="E8 8.91767" heading="163.000000" />
     </parkingList>
 </groundnet>

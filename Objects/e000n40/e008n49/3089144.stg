@@ -202,4 +202,22 @@ OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15324410 49.96961264 224.
 OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15330672 49.96953370 224.4758 0.0 0.0 -0.0
 #Added a strobe10000 to make EDFZ more visible from the distance
 OBJECT_SHARED Models/Communications/atc_antenna_vhf-uhf-omnidi_sa.xml 8.15205485 49.97240865 238.9736 352.0 0.0 -0.0
-OBJECT_SHARED Models/Effects/strobe10000.xml 8.15206440 49.97241445 245.3524 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/strobe10000.xml 8.15205485 49.97240865 245.3524 0.0 0.0 -0.0
+#Lighting the helipad
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14751037 49.97023630 227.0084 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14758244 49.97005839 227.0800 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14754474 49.97014940 227.0220 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14762402 49.96996038 227.1312 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14766344 49.96986122 227.0285 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14823095 49.96996494 226.9525 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14779960 49.96988755 227.0399 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14795144 49.96991541 227.0195 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14808844 49.96994201 227.0335 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14820021 49.97005140 226.8264 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14815608 49.97015074 226.8215 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14812162 49.97025728 226.8119 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14808810 49.97034859 226.9043 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14762454 49.97026604 226.9374 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14773386 49.97029232 226.8520 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14786672 49.97031196 226.8971 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14798760 49.97032942 226.8079 0.0 0.0 -0.0
