@@ -181,3 +181,22 @@ OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15550415 49.
 OBJECT_SHARED Models/Airport/windsock.xml 8.15507501 49.96816595 224.0136 0.0 0.0 -0.0
 #Take this Radiotower as a landmark for approaching EDFZ
 OBJECT_SHARED Models/Communications/fernmeldeturm_gruenwettersbach.xml 8.171361 49.942235 234.7120 0.0 0.0 -0.0
+#Added markers for the grass taxiways
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.14189495 49.96664763 230.9198 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.14211007 49.96671692 230.9245 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.14167603 49.96702937 230.6671 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.14188595 49.96711005 230.6642 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.14143903 49.96744416 230.3731 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.14163872 49.96753351 230.3576 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15082257 49.96771268 226.2207 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15095209 49.96767545 226.1373 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15115266 49.96797185 225.9821 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15129113 49.96794307 225.9005 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15158180 49.96830951 225.6790 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15171017 49.96828028 225.6072 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15198849 49.96862766 225.4027 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15208208 49.96857171 225.3557 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15268487 49.96917651 224.9108 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15278766 49.96912424 224.8615 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15324410 49.96961264 224.4824 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15330672 49.96953370 224.4758 0.0 0.0 -0.0
