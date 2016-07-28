@@ -1,10 +1,13 @@
 <?xml version="1.0"?>
 <groundnet>
     <parkingList>
-        <Parking index="0" type="gate" name="West_parking_patch" lat="N49 58.183956" lon="E8 8.425957" heading="156.800000" />
-        <Parking index="1" type="gate" name="Main_ramp" lat="N49 58.273879" lon="E8 9.008800" heading="253.140000" />
-        <Parking index="2" type="gate" name="North_ramp" lat="N49 58.333505" lon="E8 9.062834" heading="247.110000" />
-        <Parking index="3" type="gate" name="Tower_parking" lat="N49 58.193" lon="E8 9.08" heading="330.860000" />
+        <Parking index="0" type="gate" name="Tower_Parking" lat="N49 58.32227" lon="E8 9.13128" heading="340.000000" />
+        <Parking index="1" type="gate" name="Ju-52-Stand" lat="N49 58.29148" lon="E8 9.05622" heading="340.000000" />
+        <Parking index="2" type="gate" name="Hangar_Parking" lat="N49 58.33097" lon="E8 9.04745" heading="73.000000" />
+        <Parking index="3" type="gate" name="Refueling" lat="N49 58.29712" lon="E8 9.12057" heading="145.000000" />
+        <Parking index="4" type="gate" name="Towplane_Parking" lat="N49 58.06732" lon="E8 9.38672" heading="350.000000" />
+        <Parking index="5" type="gate" name="Towplane_Parking2" lat="N49 58.0655" lon="E8 9.37352" heading="350.000000" />
+        <Parking index="6" type="gate" name="Apron_Parking" lat="N49 58.26532" lon="E8 8.9845" heading="73.000000" />
+        <Parking index="7" type="gate" name="Apron_Parking2" lat="N49 58.27232" lon="E8 9.00878" heading="73.000000" />
     </parkingList>
 </groundnet>
- 
