@@ -200,3 +200,6 @@ OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15268487 49.96917651 224.
 OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15278766 49.96912424 224.8615 0.0 0.0 -0.0
 OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15324410 49.96961264 224.4824 0.0 0.0 -0.0
 OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15330672 49.96953370 224.4758 0.0 0.0 -0.0
+#Added a strobe10000 to make EDFZ more visible from the distance
+OBJECT_SHARED Models/Communications/atc_antenna_vhf-uhf-omnidi_sa.xml 8.15205485 49.97240865 238.9736 352.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/strobe10000.xml 8.15206440 49.97241445 245.3524 0.0 0.0 -0.0
