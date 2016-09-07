@@ -4,7 +4,7 @@ OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 8.15179409 49.97224
 #OBJECT_SHARED Models/Boundaries/Fence_80.xml 8.15215123 49.97183075 224.1382 36.0 0.0 -0.0
 #OBJECT_SHARED Models/Boundaries/Fence_16.xml 8.15166899 49.97237677 224.0329 24.0 0.0 -0.0
 #OBJECT_SHARED Models/Airport/LFBI_Tower.ac 8.15198462 49.97242500 223.6570 32.0 0.0 -0.0
-OBJECT_SHARED /home/delta/edfz-tower.xml 8.15229067 49.97236387 225.3271 29.9 0.0 -0.0
+OBJECT_STATIC edfz-tower.xml 8.15229067 49.97236387 225.3271 29.9 0.0 -0.0
 OBJECT_SHARED Models/Airport/hangar_old.xml 8.15063809 49.97251031 224.4185 290.4 0.0 -0.0
 OBJECT_SHARED Models/Airport/hangar_new.xml 8.14963161 49.97242972 224.8982 105.4 0.0 -0.0
 #New Fences placed with the fencemaker tool
