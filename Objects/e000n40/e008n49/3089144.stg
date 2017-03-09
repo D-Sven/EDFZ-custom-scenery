@@ -148,7 +148,7 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac 8.15193688 49.97262672 223.9397 
 OBJECT_SHARED Models/Transport/van_red.ac 8.15116902 49.97254962 224.1453 288.0 0.0 -0.0
 OBJECT_SHARED Models/Transport/hatchback_green.ac 8.15114948 49.97257759 224.1247 112.0 0.0 -0.0
 OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.15112652 49.97260503 224.1096 288.0 0.0 -0.0
-OBJECT_SHARED Models/Transport/motorhome.ac 8.15113831 49.97264077 224.0830 112.0 0.0 -0.0
+#OBJECT_SHARED Models/Transport/motorhome.ac 8.15113831 49.97264077 224.0830 112.0 0.0 -0.0
 OBJECT_SHARED Models/Transport/hummerh2.xml 8.15110118 49.97267682 224.0546 20.0 0.0 -0.0
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.15202196 49.97247087 226.8327 0.0 0.0 -0.0
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.15199339 49.97246052 226.8327 72.0 0.0 -0.0
@@ -234,9 +234,9 @@ OBJECT_SHARED Models/Transport/container_20ft.xml 8.15131981 49.97241646 224.175
 OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 8.15170235 49.97246063 223.9349 120.0 0.0 -0.0
 OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 8.15153632 49.97264913 223.8313 120.0 0.0 -0.0
 #More added on Sat 19th of Mar 2015
-OBJECT_SHARED Models/Transport/motorhome.ac 8.15483105 49.96734321 224.4802 0.0 0.0 -0.0
-OBJECT_SHARED Models/Transport/motorhome.ac 8.15469366 49.96731831 224.5281 0.0 0.0 -0.0
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 8.15603995 49.96767487 224.1409 284.0 0.0 -0.0
+#OBJECT_SHARED Models/Transport/motorhome.ac 8.15483105 49.96734321 224.4802 0.0 0.0 -0.0
+#OBJECT_SHARED Models/Transport/motorhome.ac 8.15469366 49.96731831 224.5281 0.0 0.0 -0.0
+#OBJECT_SHARED Models/Transport/van_blue_dirty.ac 8.15603995 49.96767487 224.1409 284.0 0.0 -0.0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.15194994 49.96903530 225.3483 0.0 0.0 -0.0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.15128878 49.96899224 225.7104 0.0 0.0 -0.0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.15162661 49.96901002 225.5263 0.0 0.0 -0.0
@@ -245,17 +245,15 @@ OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.14886299 49.96832700 227.248
 OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.15052420 49.96855017 226.2080 0.0 0.0 -0.0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.14948469 49.96840242 226.8632 0.0 0.0 -0.0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.15305875 49.96890997 224.7478 0.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/Vehicle/traffic.xml 8.15527665 49.96746989 224.3312 8.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/Vehicle/sailplane_trailer.ac 8.15443559 49.96728505 224.6155 0.0 0.0 -0.0
-OBJECT_SHARED Models/Aircraft/ask21-red.xml 8.15675637 49.96786033 223.9666 0.0 0.0 -0.0
-OBJECT_SHARED Models/Aircraft/ask21-blue.xml 8.15660070 49.96778763 224.0670 0.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 8.15586651 49.96760136 224.2090 0.0 0.0 -0.0
-#OBJECT_SHARED Models/Boundaries/Fence_80.xml 8.15618578 49.96736616 224.4414 288.0 0.0 -0.0
-#OBJECT_SHARED Models/Boundaries/Fence_80.xml 8.15766227 49.96827010 223.4339 16.0 0.0 -0.0
-#OBJECT_SHARED Models/Boundaries/Fence_80.xml 8.14091679 49.96571246 230.7821 8.0 0.0 -0.0
-#OBJECT_SHARED Models/Boundaries/Fence_80.xml 8.13903680 49.97007160 228.7146 336.0 0.0 -0.0
-#OBJECT_SHARED Models/Boundaries/Fence_80.xml 8.13889912 49.96938219 229.2390 8.0 0.0 -0.0
-#OBJECT_SHARED Models/Boundaries/Fence_80.xml 8.14828342 49.97243190 225.2409 280.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/traffic.xml 8.15555759 49.96742015 224.3769 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/sailplane_trailer.ac 8.15523554 49.96737522 224.4188 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/sailplane_trailer.ac 8.15510753 49.96733926 224.4522 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 8.15626380 49.96727402 224.3767 36.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/ask21-blue.xml 8.15694980 49.96774989 224.1093 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/ask21-red.xml 8.15722705 49.96779204 224.1034 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/van_red.ac 8.15578712 49.96739798 224.3981 0.0 0.0 -0.0
+OBJECT_SHARED Models/Power/old_trafo.ac 8.15589586 49.96715213 224.5919 276.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/sign_Unbefugte.ac 8.15648287 49.96707350 224.8530 0.0 0.0 -0.0
 OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 8.14795253 49.97255572 226.3841 0.0 0.0 -0.0
 OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 8.14885703 49.97268054 225.5580 0.0 0.0 -0.0
 OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 8.14979776 49.97279479 224.5333 0.0 0.0 -0.0
@@ -270,8 +268,8 @@ OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 8.14934922 49.97215152 225.1
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 8.14945970 49.97119542 225.6876 0.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 8.15028009 49.97136903 225.3123 0.0 0.0 -0.0
 #OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 8.14812606 49.97091883 226.2236 0.0 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/CrowdBarrier.xml 8.14211202 49.96965336 228.4725 300.0 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/CrowdBarrier.xml 8.14208889 49.96967905 228.4564 300.0 0.0 -0.0
+#OBJECT_SHARED Models/Boundaries/CrowdBarrier.xml 8.14211202 49.96965336 228.4725 300.0 0.0 -0.0
+#OBJECT_SHARED Models/Boundaries/CrowdBarrier.xml 8.14208889 49.96967905 228.4564 300.0 0.0 -0.0
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 8.14207478 49.96969277 228.4420 0.0 0.0 -0.0
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 8.14210262 49.96966711 228.4672 0.0 0.0 -0.0
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 8.14212778 49.96964052 228.4937 0.0 0.0 -0.0
@@ -327,6 +325,32 @@ OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15345755 49.
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15414267 49.96788492 224.5305 13.6 0.0 -0.0
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15482054 49.96798344 224.2508 13.6 0.0 -0.0
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15550415 49.96808259 223.9768 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/HalfRunwayMarker.ac 8.14867046 49.96709759 227.8306 284.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/HalfRunwayMarker.ac 8.14876461 49.96681386 227.8752 286.8 0.0 -0.0
+#Departing Runway Grass
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.14242794 49.96565026 231.3050 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.14269103 49.96568730 231.3111 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.14337479 49.96578552 231.1377 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.14407670 49.96588193 230.9315 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.14476843 49.96598086 230.6600 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.14543697 49.96607214 230.3492 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.14610801 49.96616812 229.9027 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.14678867 49.96626663 229.4067 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.14747044 49.96635909 228.8712 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.14813803 49.96645084 228.3151 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.14884781 49.96654855 227.8007 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.14951586 49.96663593 227.2654 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15020575 49.96672594 226.7638 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15089768 49.96681758 226.2951 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15157507 49.96690708 225.8584 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15233082 49.96701144 225.3969 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15299240 49.96710477 225.0935 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15370033 49.96721054 224.8327 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15433849 49.96730686 224.6430 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15501110 49.96740436 224.4125 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15565433 49.96750763 224.5090 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15637574 49.96762507 224.2420 13.6 0.0 -0.0
+
 #Windsock
 OBJECT_SHARED Models/Airport/windsock.xml 8.15507501 49.96816595 224.0136 0.0 0.0 -0.0
 #Take this Radiotower as a landmark for approaching EDFZ
@@ -353,7 +377,6 @@ OBJECT_SHARED Models/StreetFurniture/bollard_EPCD.ac 8.15330672 49.96953370 224.
 #Added a strobe10000 to make EDFZ more visible from the distance
 OBJECT_SHARED Models/Communications/atc_antenna_vhf-uhf-omnidi_sa.xml 8.15211354 49.97242578 237.7842 0.0 0.0 -0.0
 OBJECT_SHARED Models/Effects/strobe10000.xml 8.15211354 49.97242578 244 0.0 0.0 -0.0
-
 #Lighting the helipad
 OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14751037 49.97023630 227.0084 0.0 0.0 -0.0
 OBJECT_SHARED Models/Effects/helipad_light_green_2st.xml 8.14758244 49.97005839 227.0800 0.0 0.0 -0.0
