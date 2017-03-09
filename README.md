@@ -1,16 +1,36 @@
 # EDFZ-custom-scenery
-EDFZ is one of the biggest and busiest airfields in south-western Germany for VFR flights, soaring, helis and educational purposes. It has two parallel runways. The southern runway is used for Ultralight-planes and gliders, the asphalt runway for everything else (Cessnas, Gyros and private jets). Here is a authentic custom scenery for it! Have fun :)
+Mainz Finthen is a rather busy airfield located in south-western Germany. 
 
+08/26: Departing and landing runway for motorised planes.
+08R/26L grass: Used for glider operations and UL-practice (UltraLight).
+Traffic patterns are flown south of the airport. Means:
+        From 08: Left turns
+        From 26: Right turns
+        Altitude: 1500ft - max. 3000ft MSL
+Airspace C borders at 3500ft MSL, be sure to not enter it. ~2 nm to the east of the field,
+airspace D begins (1500ft - GND) and a C (1500ft-FL100). Try to stay out of there unless you obtain a clearance from DFS.
+(which FG pilots usually have, don't we ? :D)
 
-This custom scenery contains a complete new groundnet of taxiways because what you see in terrasync is only this standard airport with one taxiway down the runway.
-Thanks to d-laser for making this possible.
+This custom scenery contains: 
+            a complete new groundnet of the field
+            shared models and the original tower building and hangars
+            multiple parking positions
+            osm-2-city-buildings for the city of Mainz (Installation described below)
+            coming up soon: a fgfp and procedure for traffic pattern and to nearby airports
+            
 
-Also, i tried to place some shared models from https://scenery.flightgear.org/download.php  to make the airport looking as real as it gets.
-Some things are different than in reality, but the structure is the same...
+INSTALLATION: Add the folder /EDFZ-custom-scenery/osm2city/ and /EDFZ-custom-scenery to your FG_SCENERY (very first page of FG-Wizard launcher) 
+or add the following when starting FG via commandline:
+
+ --fg-scenery=/YOUR_SCENERY_PATH/EDFZ-custom-scenery/osm2city /YOUR_SCENERY_PATH/EDFZ-custom-scenery
+                                        =                                       =
+                           osm2city buildings (NOTICE)                  Mainz Finthen Airport
+YOUR_SCENERY_PATH can just be a random directory where you extracted the downloaded scenery!
+
+NOTICE: osm2city may decrease framerate... If this is the case, remove the /osm2city folder from FG_SCENERY (prefered) or delete it.
 
 
 See the corresponding discussion in the official flightgear forum: 
-
 https://forum.flightgear.org/viewtopic.php?f=5&t=30349
 
 
