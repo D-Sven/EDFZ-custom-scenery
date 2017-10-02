@@ -22,7 +22,7 @@
     <threshold>
       <lon>8.14249170</lon>
       <lat>49.96600106</lat>
-      <rwy>08R</rwy>
+      <rwy>08Grass</rwy>
       <hdg-deg>77.32</hdg-deg>
       <displ-m>0.0</displ-m>
       <stopw-m>0.0</stopw-m>
@@ -30,7 +30,7 @@
     <threshold>
       <lon>8.15611508</lon>
       <lat>49.96802791</lat>
-      <rwy>26L</rwy>
+      <rwy>26Grass</rwy>
       <hdg-deg>257.33</hdg-deg>
       <displ-m>0.0</displ-m>
       <stopw-m>0.0</stopw-m>

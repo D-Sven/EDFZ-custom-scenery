@@ -1,0 +1,514 @@
+<?xml version="1.0"?>
+
+<!-- Flightplan for the aerotow procedure from EDFZ RWY 26L. Created by Sven Seipp (callsign D-SVEN, Oct 2017) -->
+
+<PropertyList>
+
+<flightplan>
+<wpt>
+        <name>1-No name</name>
+        <lat>49.97243133053201</lat>
+        <lon>8.150970757007574</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>2-No name</name>
+        <lat>49.97226917281756</lat>
+        <lon>8.151040494441961</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>3-No name</name>
+        <lat>49.972238121278</lat>
+        <lon>8.151059269905065</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>4-No name</name>
+        <lat>49.972212244979666</lat>
+        <lon>8.15106731653211</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>5-No name</name>
+        <lat>49.972184643579475</lat>
+        <lon>8.151064634323095</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>6-No name</name>
+        <lat>49.97214151635999</lat>
+        <lon>8.151043176650976</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>7-No name</name>
+        <lat>49.9720966640108</lat>
+        <lon>8.151008307933783</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>8-No name</name>
+        <lat>49.972053536712515</lat>
+        <lon>8.151000261306738</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>9-No name</name>
+        <lat>49.97200868428128</lat>
+        <lon>8.151021718978857</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>10-No name</name>
+        <lat>49.971965556904166</lat>
+        <lon>8.151080727577185</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>11-No name</name>
+        <lat>49.97087528396997</lat>
+        <lon>8.152266263961767</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>12-No name</name>
+        <lat>49.97082525503065</lat>
+        <lon>8.152330636978125</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>13-No name</name>
+        <lat>49.97078557686931</lat>
+        <lon>8.152378916740393</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>14-No name</name>
+        <lat>49.97074589867533</lat>
+        <lon>8.15244865417478</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>15-No name</name>
+        <lat>49.97070449530779</lat>
+        <lon>8.15257471799848</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>16-No name</name>
+        <lat>49.97067689304301</lat>
+        <lon>8.152732968330358</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>17-No name</name>
+        <lat>49.970661366762066</lat>
+        <lon>8.152872443199133</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>18-No name</name>
+        <lat>49.970651015905446</lat>
+        <lon>8.153113842010473</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>19-No name</name>
+        <lat>49.97067689304335</lat>
+        <lon>8.153524219989752</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>20-No name</name>
+        <lat>49.970661366762414</lat>
+        <lon>8.153642237186407</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>21-No name</name>
+        <lat>49.970618238178</lat>
+        <lon>8.153711974620794</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>22-No name</name>
+        <lat>49.97035601555195</lat>
+        <lon>8.153838038444494</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>23-No name</name>
+        <lat>49.970292184828125</lat>
+        <lon>8.153859496116613</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>24-No name</name>
+        <lat>49.97016624828676</lat>
+        <lon>8.153859496116613</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>25-No name</name>
+        <lat>49.97001098360398</lat>
+        <lon>8.153846085071539</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>26-No name</name>
+        <lat>49.96992891</lat>
+        <lon>8.15372998</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>27-No name</name>
+        <lat>49.96739626</lat>
+        <lon>8.15046563</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>28-No name</name>
+        <lat>49.96818202</lat>
+        <lon>8.15583907</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>29-No name</name>
+        <lat>49.96799578</lat>
+        <lon>8.15578293</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>30-No name</name>
+        <lat>49.96793288</lat>
+        <lon>8.15533302</lon>
+        <alt>739</alt>
+        <ktas>10</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>31-No name</name>
+        <lat>49.96774864</lat>
+        <lon>8.15419159</lon>
+        <alt>739</alt>
+        <ktas>20</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>32-No name</name>
+        <lat>49.96749982</lat>
+        <lon>8.15244200</lon>
+        <alt>775</alt>
+        <ktas>35</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>33-No name</name>
+        <lat>49.96720118</lat>
+        <lon>8.15037790</lon>
+        <alt>775</alt>
+        <ktas>45</ktas>
+        <on-ground>true</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>34-No name</name>
+        <lat>49.96693502</lat>
+        <lon>8.14856691</lon>
+        <alt>780</alt>
+        <ktas>55</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>35-No name</name>
+        <lat>49.96649206</lat>
+        <lon>8.14559784</lon>
+        <alt>800</alt>
+        <ktas>60</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>true</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>36-No name</name>
+        <lat>49.96611460</lat>
+        <lon>8.14295897</lon>
+        <alt>860</alt>
+        <ktas>65</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>false</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>37-No name</name>
+        <lat>49.96572893129827</lat>
+        <lon>8.139853000640844</lon>
+        <alt>1000</alt>
+        <ktas>65</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>false</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>38-No name</name>
+        <lat>49.96465231994553</lat>
+        <lon>8.137042045593237</lon>
+        <alt>1120</alt>
+        <ktas>65</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>false</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>39-No name</name>
+        <lat>49.963175390840206</lat>
+        <lon>8.135497093200659</lon>
+        <alt>1300</alt>
+        <ktas>65</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>false</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>40-No name</name>
+        <lat>49.960387046016926</lat>
+        <lon>8.1349821090698</lon>
+        <alt>1450</alt>
+        <ktas>65</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>false</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>41-No name</name>
+        <lat>49.95674262912299</lat>
+        <lon>8.136934757232641</lon>
+        <alt>1600</alt>
+        <ktas>65</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>false</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>42-No name</name>
+        <lat>49.95492031722948</lat>
+        <lon>8.141483783721899</lon>
+        <alt>1740</alt>
+        <ktas>65</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>false</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>43-No name</name>
+        <lat>49.95409197084301</lat>
+        <lon>8.14817857742307</lon>
+        <alt>1880</alt>
+        <ktas>65</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>false</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>44-No name</name>
+        <lat>49.95458898038491</lat>
+        <lon>8.156075000762915</lon>
+        <alt>2000</alt>
+        <ktas>65</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>false</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>45-No name</name>
+        <lat>49.955306874000506</lat>
+        <lon>8.168863773345922</lon>
+        <alt>2130</alt>
+        <ktas>65</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>false</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>46-No name</name>
+        <lat>49.957515710304385</lat>
+        <lon>8.172726154327368</lon>
+        <alt>2240</alt>
+        <ktas>65</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>false</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>47-No name</name>
+        <lat>49.960387046018276</lat>
+        <lon>8.171953678131079</lon>
+        <alt>2300</alt>
+        <ktas>65</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>false</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>48-No name</name>
+        <lat>49.961380930023005</lat>
+        <lon>8.168348789215063</lon>
+        <alt>2370</alt>
+        <ktas>65</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>false</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>49-No name</name>
+        <lat>49.96093920633179</lat>
+        <lon>8.164486408233618</lon>
+        <alt>2450</alt>
+        <ktas>65</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>false</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>
+        <name>50-No name</name>
+        <lat>49.95801268450903</lat>
+        <lon>8.147234439849829</lon>
+        <alt>28</alt>
+        <ktas>69</ktas>
+        <on-ground>false</on-ground>
+        <gear-down>false</gear-down>
+        <flaps-down>true</flaps-down>
+    </wpt>
+    <wpt>    
+        <name>END</name>
+    </wpt>
+
+</flightplan>
+
+</PropertyList>

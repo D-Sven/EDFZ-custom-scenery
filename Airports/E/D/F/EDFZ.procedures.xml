@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <Airport ICAOcode="EDFZ">
+   <Sid Name="Pattern" Runways="26">
+      <Sid_Waypoint ID="1">
+        <Name>Crosswind</Name>
+        <Type>Normal</Type>
+        <Latitude>49.9637</Latitude>
+        <Longitude>8.1167</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>Downwind</Name>
+        <Type>Normal</Type>
+        <Latitude>49.9141</Latitude>
+        <Longitude>8.1281</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>Base</Name>
+        <Type>Normal</Type>
+        <Latitude>49.9277</Latitude>
+        <Longitude>8.2020</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>Final</Name>
+        <Type>Normal</Type>
+        <Latitude>49.9770</Latitude>
+        <Longitude>8.1915</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>Touchdown</Name>
+        <Type>Normal</Type>
+        <Latitude>49.9702</Latitude>
+        <Longitude>8.1538</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="Pattern" Runways="08">
+      <Sid_Waypoint ID="1">
+        <Name>Crosswind</Name>
+        <Type>Normal</Type>
+        <Latitude>49.9770</Latitude>
+        <Longitude>8.1915</Longitude>
+      </Sid_Waypoint>
+        <Sid_Waypoint ID="2">
+        <Name>Downwind</Name>
+        <Type>Normal</Type>
+        <Latitude>49.9277</Latitude>
+        <Longitude>8.2020</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>Base</Name>
+        <Type>Normal</Type>
+        <Latitude>49.9141</Latitude>
+        <Longitude>8.1281</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>Final</Name>
+        <Type>Normal</Type>
+        <Latitude>49.9637</Latitude>
+        <Longitude>8.1167</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>Touchdown</Name>
+        <Type>Normal</Type>
+        <Latitude>49.9680</Latitude>
+        <Longitude>8.1415</Longitude>
+      </Sid_Waypoint>
+  </Sid>
+</Airport>
