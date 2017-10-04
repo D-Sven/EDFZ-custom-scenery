@@ -33,7 +33,7 @@ INSTALLATION OF AI TOWPLANE (new):
 
 Copy the /AI folder to your $FGROOT directory.
 It contains the towplane (/Aircraft/c177), the FlightPlan for the tow (/FlightPans/EDFZ_towing26.xml) and the main XML (EDFZ-Mainz_towing.xml).
-All the files must be copied or moved to the proper directories!
+All the files must be copied or moved to the proper directories in your $FGROOT (Linux: /usr/share/games/flightgear/)!
 For the final tow see the documentation in /AI...        Have fun!
 
 See the corresponding discussion in the official flightgear forum: 
@@ -43,4 +43,5 @@ https://forum.flightgear.org/viewtopic.php?f=5&t=30349
 Credits:    Many thanks to D-ECHO for modelling an awesome realistic tower building and some hangar buildings!
             Thanks to D-3-m for his exellent critics and his useful suggestions!
             Thanks to d-laser for turning the poor generic taxiway structure in a gorgeous layout like in RL!
+            Thanks to Herbert Wagner (alias HerbyW) for improving the towplane action and improving the c177 for it!
             
