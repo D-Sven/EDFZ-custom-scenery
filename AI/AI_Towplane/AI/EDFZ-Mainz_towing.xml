@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <scenario>
+
+  <description>
+     AI-scenario to simulate the aerotow procedure from runway 26L at EDFZ by D-SVEN (Sven Seipp, Oct 2017)
+  </description>
+
+  <entry>
+   <callsign>Towplane_EDFZ</callsign>
+   <type>aircraft</type>
+   <class>aerotow-dragger</class>
+   <model>Aircraft/c177/c177-n16034.xml</model>
+   <flightplan>EDFZ_towing26.xml</flightplan>
+   <repeat>0</repeat>
+  </entry>
+
+ </scenario>
+
+</PropertyList>

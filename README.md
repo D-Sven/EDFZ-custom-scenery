@@ -31,7 +31,7 @@ NOTICE: osm2city may decreases framerate... If this is the case, remove the /osm
 
 INSTALLATION OF AI TOWPLANE (new):
 
-Copy the /AI folder to your $FGROOT directory.
+Go to /AI/AI_towplane and copy the /AI folder into your $FGROOT directory.
 It contains the towplane (/Aircraft/c177), the FlightPlan for the tow (/FlightPans/EDFZ_towing26.xml) and the main XML (EDFZ-Mainz_towing.xml).
 All the files must be copied or moved to the proper directories in your $FGROOT (Linux: /usr/share/games/flightgear/)!
 For the final tow see the documentation in /AI...        Have fun!
