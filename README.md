@@ -6,7 +6,7 @@ Mainz Finthen is a rather busy airfield located in south-western Germany.
 Traffic patterns are flown south of the airport. Means:
         From 08: Left turns
         From 26: Right turns
-        Altitude: 1500ft - max. 3000ft MSL
+        Altitude: 1700ft Above Sea Level - 1500ft MSL for Ultralight
 Airspace C borders at 3500ft MSL, be sure to not enter it.
 ~2 nm to the east of the field airspace D begins (GND - 1500ft) and a C (1500ft - FL100). Try to stay out of there unless you obtain a clearance from DFS.
 (which FG pilots usually have, don't we ? :D)
