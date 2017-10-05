@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <scenario>
+  <name>Thermals around EDFZ</name>
+  <description>
+     These Thermals are located is suitable positions aroud Mainz Finthen airport.
+     they can be used especially for training purposes since they are kind of visible with great, black clouds above them!
+     YOu can also see them in the miniMap (ctrl + J) as traffic once the scenario is activated.
+     Have fun!
+     D-Sven, Oct 2017
+  </description>
+ 
+  <entry>
+   <!-- Location:  Humuswerk Essenheim 49.955870 8.145111 -->
+   <type>thermal</type>
+   <latitude>49.955870</latitude>
+   <longitude>8.145111</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>3000</diameter-ft>
+   <height-msl>4500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+    <!-- Location: Lerchenberg Waldkante 49.967200 8.168515  -->
+   <type>thermal</type>
+   <latitude>49.967200</latitude>
+   <longitude>8.168515</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>3300</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location: Wackernheim   49.977438 8.120605 -->
+   <type>thermal</type>
+   <latitude>49.977438</latitude>
+   <longitude>8.120605</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>6000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location:  Heidenfahrt 50.007549 8.097257 -->
+   <type>thermal</type>
+   <latitude>50.007549</latitude>
+   <longitude>8.097257</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>6000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location:  Ingelheim 49.974541 8.067757  -->
+   <type>thermal</type>
+   <latitude>49.974541</latitude>
+   <longitude>8.067757</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>6000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location: Bingen am Rhein 49.967939 7.891481 -->
+   <type>thermal</type>
+   <latitude>49.967939</latitude>
+   <longitude>7.891481</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>6300</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+ </scenario>
+
+</PropertyList>

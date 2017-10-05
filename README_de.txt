@@ -1,6 +1,6 @@
 Mainz Finthen ist ein sehr gut besuchter Landeplatz im Südwesten Deutschlands. 
 
-Die zwei Pisten werden wie folgt genutzt.
+Die zwei Pisten werden wie folgt genutzt:
 
 08/26: Start- und Landebahn für motorisierte Luftfahrzeuge.
 08R/26L grass: Hauptsächlich Segelflug(schulung) und vereinzelt Ultraleichtbetrieb.
@@ -34,7 +34,7 @@ NOTIZ: osm2city kann wegen der vielen Objecte Einfluss auf die Framerate haben. 
 
 INSTALLATION DES F-SCHLEPP-SZENARIOS:
 
-Kopiere einfach den AI-Ordner in AI/AI_towplane/ in den $FGROOT-Verzeichnis. (Linux: /usr/share/games/flightgear/)
+Kopiere einfach den AI-Ordner in AI/AI_towplane/ in dein $FGROOT-Verzeichnis. (Linux: /usr/share/games/flightgear/)
 Es enthält das Schleppflugzeug (/Aircraft/c177), den sog. Flugplan des Szenarios (/FlightPans/EDFZ_towing26.xml) und die Haupt-xml (EDFZ-Mainz_towing.xml).
 All diese Dateien müssen in den richtigen Verzeichnissen sein, damit das Szenario funktioniert!
 Eine ausführliche Dokumentation zum F-Schlepp in FlightGear findest du in /AI/AI-towplane/Tutorial_de.pdf
