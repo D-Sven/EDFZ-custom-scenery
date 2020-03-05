@@ -162,7 +162,6 @@ OBJECT_SHARED Models/Airport/FGRefuel02.xml 8.15219866 49.97171387 224.2522 213.
 OBJECT_SHARED Models/Airport/FuelTank_7x3m.ac 8.15227921 49.97166550 224.1972 304.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/EDXW_Hangar25x15.ac 8.15227216 49.97267026 223.2411 29.2 0.0 -0.0
 OBJECT_SHARED Models/Airport/hangar_15x25m.ac 8.15183501 49.97277993 223.7434 300.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/lime_large.xml 8.15184789 49.97257201 223.7550 200.0 0.0 -0.0
 #OBJECT_SHARED Models/Airport/MedHangar.ac 8.15259794 49.97249441 223.3330 120.0 0.0 -0.0
 #OBJECT_SHARED Models/Airport/Hangar_planeurs.ac 8.15303570 49.97241645 223.0957 300.0 0.0 -0.0
 #OBJECT_SHARED Models/Airport/Hangar_20mx14m.ac 8.15325714 49.97212170 222.8658 216.0 0.0 -0.0
@@ -350,6 +349,14 @@ OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15433849 49.
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15501110 49.96740436 224.4125 13.6 0.0 -0.0
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15565433 49.96750763 224.5090 13.6 0.0 -0.0
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15637574 49.96762507 224.2420 13.6 0.0 -0.0
+
+#Added Mar 2020
+
+OBJECT_SHARED Models/Aircraft/glider-trailer-open.ac 8.15612970 49.96744056 224.3661 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-blue.ac 8.15630908 49.96746119 224.3597 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-red.ac 8.15662080 49.96752075 224.3312 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-open.ac 8.15208583 49.97273705 223.5270 304.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/EC-135_ADAC.xml 8.14972192 49.97114945 225.6830 12.0 0.0 -0.0
 
 #Windsock
 OBJECT_SHARED Models/Airport/windsock.xml 8.15507501 49.96816595 224.0136 0.0 0.0 -0.0

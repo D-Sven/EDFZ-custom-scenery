@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 
-<!-- Flightplan for the aerotow procedure from EDFZ RWY 26L. Created by Sven Seipp (callsign D-SVEN, Oct 2017) -->
+<!-- Flightplan for the aerotow procedure from EDFZ RWY 26L. Created by Sven Seipp (callsign D-SVEN, Oct 2017, upfate Mar 2020) -->
 
 <PropertyList>
   
@@ -100,7 +100,7 @@
       <lat>49.971965556904166</lat>
       <lon>8.151080727577185</lon>
       <alt>739</alt>
-      <ktas>10</ktas>
+      <ktas>13</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -110,7 +110,7 @@
       <lat>49.97087528396997</lat>
       <lon>8.152266263961767</lon>
       <alt>739</alt>
-      <ktas>10</ktas>
+      <ktas>15</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -130,7 +130,7 @@
       <lat>49.97078557686931</lat>
       <lon>8.152378916740393</lon>
       <alt>739</alt>
-      <ktas>10</ktas>
+      <ktas>7</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -170,7 +170,7 @@
       <lat>49.970661366762066</lat>
       <lon>8.152872443199133</lon>
       <alt>739</alt>
-      <ktas>10</ktas>
+      <ktas>13</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -180,7 +180,7 @@
       <lat>49.970651015905446</lat>
       <lon>8.153113842010473</lon>
       <alt>739</alt>
-      <ktas>10</ktas>
+      <ktas>13</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -190,7 +190,7 @@
       <lat>49.97067689304335</lat>
       <lon>8.153524219989752</lon>
       <alt>739</alt>
-      <ktas>10</ktas>
+      <ktas>13</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -200,7 +200,7 @@
       <lat>49.970661366762414</lat>
       <lon>8.153642237186407</lon>
       <alt>739</alt>
-      <ktas>10</ktas>
+      <ktas>13</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -210,7 +210,7 @@
       <lat>49.970618238178</lat>
       <lon>8.153711974620794</lon>
       <alt>739</alt>
-      <ktas>10</ktas>
+      <ktas>13</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -220,7 +220,7 @@
       <lat>49.97035601555195</lat>
       <lon>8.153838038444494</lon>
       <alt>739</alt>
-      <ktas>10</ktas>
+      <ktas>13</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -230,7 +230,7 @@
       <lat>49.970292184828125</lat>
       <lon>8.153859496116613</lon>
       <alt>739</alt>
-      <ktas>10</ktas>
+      <ktas>13</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -240,7 +240,7 @@
       <lat>49.97016624828676</lat>
       <lon>8.153859496116613</lon>
       <alt>739</alt>
-      <ktas>10</ktas>
+      <ktas>13</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -260,7 +260,7 @@
       <lat>49.96992891</lat>
       <lon>8.15372998</lon>
       <alt>739</alt>
-      <ktas>10</ktas>
+      <ktas>12</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -270,11 +270,14 @@
       <lat>49.96739626</lat>
       <lon>8.15046563</lon>
       <alt>739</alt>
-      <ktas>10</ktas>
+      <ktas>12</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
     </wpt>
+    
+    <!-- On grass runway -->
+
     <wpt>
       <name>28</name>
       <lat>49.96818202</lat>
@@ -300,7 +303,7 @@
       <lat>49.96793288</lat>
       <lon>8.15533302</lon>
       <alt>739</alt>
-      <ktas>10</ktas>
+      <ktas>6</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -310,7 +313,7 @@
       <lat>49.96774864</lat>
       <lon>8.15419159</lon>
       <alt>741.85</alt>
-      <ktas>20</ktas>
+      <ktas>6</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -320,7 +323,7 @@
       <lat>49.96749982</lat>
       <lon>8.15244200</lon>
       <alt>744.63</alt>
-      <ktas>35</ktas>
+      <ktas>20</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -330,7 +333,7 @@
       <lat>49.96720118</lat>
       <lon>8.15037790</lon>
       <alt>746.86</alt>
-      <ktas>45</ktas>
+      <ktas>35</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -340,7 +343,7 @@
       <lat>49.96693502</lat>
       <lon>8.14856691</lon>
       <alt>748</alt>
-      <ktas>55</ktas>
+      <ktas>45</ktas>
       <on-ground>true</on-ground>
       <gear-down>true</gear-down>
       <flaps-down>true</flaps-down>
@@ -569,7 +572,7 @@
       <name>54</name>
       <lat>49.964464255557914</lat>
       <lon>8.153186261653875</lon>
-      <alt>980</alt>
+      <alt>1000</alt>
       <ktas>90</ktas>
       <on-ground>false</on-ground>
       <gear-down>false</gear-down>
@@ -579,7 +582,7 @@
       <name>55</name>
       <lat>49.96567889701136</lat>
       <lon>8.159881055355047</lon>
-      <alt>960</alt>
+      <alt>1000</alt>
       <ktas>90</ktas>
       <on-ground>false</on-ground>
       <gear-down>false</gear-down>
@@ -589,7 +592,7 @@
       <name>56</name>
       <lat>49.96689350781553</lat>
       <lon>8.165460050106024</lon>
-      <alt>950</alt>
+      <alt>1000</alt>
       <ktas>90</ktas>
       <on-ground>false</on-ground>
       <gear-down>false</gear-down>
@@ -599,7 +602,7 @@
       <name>57</name>
       <lat>49.967997672859255</lat>
       <lon>8.170352399349188</lon>
-      <alt>940</alt>
+      <alt>1000</alt>
       <ktas>90</ktas>
       <on-ground>false</on-ground>
       <gear-down>false</gear-down>
@@ -611,66 +614,16 @@
       <name>58</name>
       <lat>49.96988332115335</lat>
       <lon>8.174764633178686</lon>
-      <alt>930</alt>
+      <alt>1000</alt>
       <ktas>90</ktas>
-      <on-ground>false</on-ground>
-      <gear-down>false</gear-down>
-      <flaps-down>false</flaps-down>
-    </wpt>
-    <wpt>
-      <name>59</name>
-      <lat>49.97220189445615</lat>
-      <lon>8.179313659667944</lon>
-      <alt>910</alt>
-      <ktas>90</ktas>
-      <on-ground>false</on-ground>
-      <gear-down>false</gear-down>
-      <flaps-down>false</flaps-down>
-    </wpt>
-    <wpt>
-      <name>60</name>
-      <lat>49.97534835098858</lat>
-      <lon>8.181459426879858</lon>
-      <alt>900</alt>
-      <ktas>90</ktas>
-      <on-ground>false</on-ground>
-      <gear-down>false</gear-down>
-      <flaps-down>false</flaps-down>
-    </wpt>
-    <wpt>
-      <name>61</name>
-      <lat>49.978053035141194</lat>
-      <lon>8.178541183471655</lon>
-      <alt>890</alt>
-      <ktas>85</ktas>
-      <on-ground>false</on-ground>
-      <gear-down>false</gear-down>
-      <flaps-down>false</flaps-down>
-    </wpt>
-    <wpt>
-      <name>62</name>
-      <lat>49.978770578888145</lat>
-      <lon>8.173305511474585</lon>
-      <alt>880</alt>
-      <ktas>85</ktas>
-      <on-ground>false</on-ground>
-      <gear-down>false</gear-down>
-      <flaps-down>false</flaps-down>
-    </wpt>
-    <wpt>
-      <name>63</name>
-      <lat>49.97705949536421</lat>
-      <lon>8.16918563842771</lon>
-      <alt>860</alt>
-      <ktas>80</ktas>
       <on-ground>false</on-ground>
       <gear-down>false</gear-down>
       <flaps-down>false</flaps-down>
     </wpt>
     <wpt>
       <name>64</name>
-      <lat>49.97507235426212</lat>
-      <lon>8.166782379150366</lon>
+      <lat>49.972754</lat>
+      <lon>8.167030</lon>
       <crossat>830.0</crossat>
       <ktas>80</ktas>
       <on-ground>false</on-ground>
@@ -681,7 +634,7 @@
       <name>65</name>
       <lat>49.972740118713126</lat>
       <lon>8.164121627807592</lon>
-      <crossat>800.0</crossat>
+      <crossat>745.0</crossat>
       <ktas>70</ktas>
       <on-ground>false</on-ground>
       <gear-down>false</gear-down>
@@ -693,7 +646,7 @@
       <name>66</name>
       <lat>49.970799377973655</lat>
       <lon>8.157413423061346</lon>
-      <crossat>770.0</crossat>
+      <crossat>761.0</crossat>
       <ktas>70</ktas>
       <on-ground>false</on-ground>
       <gear-down>true</gear-down>
@@ -763,6 +716,6 @@
       <name>END</name>
     </wpt>
     
-    </flightplan>
+</flightplan>
     
-    </PropertyList>
+</PropertyList>
