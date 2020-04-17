@@ -49,7 +49,7 @@ See the corresponding discussion in the official flightgear forum:
 https://forum.flightgear.org/viewtopic.php?f=5&t=30349
 
 
-Credits:    Many thanks to D-ECHO for modelling an awesome realistic tower building, some hangar buildings and NavDat!
+Credits:    Many thanks to D-ECHO for modelling an awesome realistic tower building, some hangar buildings, creating latest NavDat and terrain data!
             Thanks to D-3-m and D-ABBA for their exellent critics and useful suggestions!
             Thanks to d-laser for turning the poor generic taxiway structure in a gorgeous layout like in RL!
             Thanks to Herbert Wagner (alias HerbyW) for improving the towplane action!
@@ -113,7 +113,7 @@ Hier der Link zum Forumeintrag:
 https://forum.flightgear.org/viewtopic.php?f=5&t=30349
 
 
-Danksagungen:   Vielen Dank an D-ECHO für den Tower, einige Hangars und NavDat!
+Danksagungen:   Vielen Dank an D-ECHO für den Tower, einige Hangars brandneues Terrain sowie NavDat!
                 Danke 3-m und D-ABBA für eure Kritik am Projekt.
                 Danke an d-laser für das neue Groundnet. Sieht super aus!
                 Danke Herby (alias HerbyW) für deine Arbeit an dem F-Schlepp-Szenario!
