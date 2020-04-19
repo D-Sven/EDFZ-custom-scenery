@@ -31,16 +31,24 @@ or add the following when starting FG via commandline:
 
 YOUR_SCENERY_PATH can just be a random directory where you extracted the downloaded scenery!
 
-NOTICE: osm2city may decrease framerate... If this is the case, remove the /osm2city folder from FG_SCENERY (prefered) or delete it.
+osm2city may decrease framerate... If this is the case, remove the /osm2city folder from FG_SCENERY (prefered) or delete it.
+
+NOTE: To fully enjoy this scenery, your database of shared models needs to be up to date!
+With Linux, open a terminal and type:
+
+wget -r -np -nH -R index.html http://flightgear.sourceforge.net/scenery/Models/
+
+to get all the latest shared models. Then simply move them to your scenery folder
 
 INSTALLATION OF AI TOWPLANE:
-Go to /AI/AI_towplane and copy the /AI folder into your $FGROOT directory.
-It contains the towplane (/Aircraft/c177), the FlightPlan for the tow (/FlightPans/EDFZ_towing26.xml) and the main XML (EDFZ-Mainz_towing.xml).
-All the files must be copied or moved to the proper directories in your $FGROOT (Linux: /usr/share/games/flightgear/)!
+Go to /AI/Towplane and copy the /AI folder into your $FGROOT directory.
+With Linux, cd to EDFZ-custom-scenery/AI/Towplane/ in your console and type: sudo cp -r AI/* /usr/share/games/flightgear/AI/
+It contains the towplane (/Aircraft/c177), the FlightPlan for the tow (/FlightPans/FP_EDFZ_towing26.xml) and the main XML (EDFZ-Mainz_towing26.xml).
 Find more information and documentation in /DOCU/Aerotow-tutorial-en.pdf 
 
 INSTALLATION OF AI THERMALS:
-Go to /AI/AI_thermals and copy the /AI folder into your $FGROOT directory.
+Go to /AI/Thermals and copy the /AI folder into your $FGROOT directory.
+With Linux, cd to EDFZ-custom-scenery/AI/Thermals/ in your console and type: sudo cp -r * /usr/share/games/flightgear/
 It contains the thermal clouds (/Models/Geometry) and the thermal positions (/AI/EDFZ_thermals.xml), which you may want to change.
 All the files must be copied or moved to the proper directories in your $FGROOT (Linux: /usr/share/games/flightgear/)!
 Find more information and documentation in /DOCU/Thermaling-tutorial-en.pdf 
@@ -50,8 +58,8 @@ https://forum.flightgear.org/viewtopic.php?f=5&t=30349
 
 
 Credits:    Many thanks to D-ECHO for modelling an awesome realistic tower building, some hangar buildings, creating latest NavDat and terrain data!
-            Thanks to D-3-m and D-ABBA for their exellent critics and useful suggestions!
-            Thanks to d-laser for turning the poor generic taxiway structure in a gorgeous layout like in RL!
+            Thanks to D-3-m, D-ABBA and D-EKSW for your critics and suggestions!
+            Thanks to d-laser for the first terrain-rework!
             Thanks to Herbert Wagner (alias HerbyW) for improving the towplane action!
             
 
@@ -93,18 +101,26 @@ Add-ons-Liste im Launcher oder in der Konsole:
 
 YOUR_SCENERY_PATH ist hier der Pfad vom Hauptverzeichnis zum Download
 
-NOTIZ: osm2city kann wegen der vielen Objecte Einfluss auf die Framerate haben. Falls euch das nicht gefällt könnt ihr den osm2city Ordner rausschmeißen oder evtl. löschen!
+osm2city kann wegen der vielen Objecte Einfluss auf die Framerate haben. Falls euch das nicht gefällt könnt ihr den osm2city-Ordner rausschmeißen oder evtl. löschen!
+NOTIZ: Ihr braucht unbedingt alle aktuellen "shared models", um die Szenerie in Gänze sehen zu können
+In Linux öffnet ihr dazu einfach eine Konsole und schreibt:
+
+wget -r -np -nH -R index.html http://flightgear.sourceforge.net/scenery/Models/
+
+um alle shared models herunterzuladen. Danach einfach alles in euer Szenerie-Verzeichnis verschieben.
 
 INSTALLATION DES F-SCHLEPP-SZENARIOS:
 
-Kopiere einfach den Ordner /AI/ in AI/AI_towplane/ in dein $FGROOT-Verzeichnis. (Linux: /usr/share/games/flightgear/)
+Kopiere einfach den Ordner /AI/ in AI/AI_towplane/ in dein $FGROOT-Verzeichnis.
+In Linux, gehe einfach in der Konsole nach EDFZ-custom-scenery/AI/Towplane/ und schreibe: sudo cp -r AI/* /usr/share/games/flightgear/AI/
 Es enthält das Schleppflugzeug (/Aircraft/c177), den sog. Flugplan des Szenarios (/FlightPans/EDFZ_towing26.xml) und die Haupt-xml (EDFZ-Mainz_towing.xml).
 All diese Dateien müssen in den richtigen Verzeichnissen sein, damit das Szenario funktioniert!
 Eine ausführliche Dokumentation zum F-Schlepp in FlightGear findest du in /DOCU/F-Schlepp-Anleitung-de.pdf
 
 INSTALLATION DES THERMIK-SZENARIOS:
 
-Kopiere einfach den AI-Ordner AI/AI_thermals/ in dein $FGROOT-Verzeichnis. (Linux: /usr/share/games/flightgear/)
+Kopiere einfach den AI-Ordner AI/AI_thermals/ in dein $FGROOT-Verzeichnis.
+In Linux, gehe einfach in der Konsole nach EDFZ-custom-scenery/AI/Thermals/ und schreibe: sudo cp -r * /usr/share/games/flightgear/
 Es enthält die passende Wolke (/Models/Geometry) und die .xml mit den Positionen der Wolken.
 All diese Dateien müssen in den richtigen Verzeichnissen sein, damit das Szenario funktioniert!
 Eine ausführliche Dokumentation zum Thermikflug in FlightGear findest du in /DOCU/Thermik-Anleitung-de.pdf
@@ -113,7 +129,7 @@ Hier der Link zum Forumeintrag:
 https://forum.flightgear.org/viewtopic.php?f=5&t=30349
 
 
-Danksagungen:   Vielen Dank an D-ECHO für den Tower, einige Hangars brandneues Terrain sowie NavDat!
-                Danke 3-m und D-ABBA für eure Kritik am Projekt.
-                Danke an d-laser für das neue Groundnet. Sieht super aus!
+Danksagungen:   Vielen Dank an D-ECHO für den Tower, einige Hangars, brandneues Terrain sowie NavDat! Sieht echt klasse aus!
+                Danke 3-m, D-ABBA und D-EKSW für eure Rückmeldung!
+                Danke an d-laser für das erste Groundnet.
                 Danke Herby (alias HerbyW) für deine Arbeit an dem F-Schlepp-Szenario!
