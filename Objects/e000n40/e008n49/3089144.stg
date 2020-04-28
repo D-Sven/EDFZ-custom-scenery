@@ -104,7 +104,11 @@ OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15477225 49.
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15487019 49.96743565 224.1035 12.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15532769 49.96807248 223.6662 16.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15542315 49.96780228 223.7965 0.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15551724 49.96753246 223.9726 8.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15551724 49.96753246 223.9726 8.0 0.0 -0.0 
+OBJECT_SHARED Models/Airport/HalfRunwayMarker.ac 8.14895368 49.96682205 227.5631 281.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/HalfRunwayMarker.ac 8.14886045 49.96708485 227.6461 280.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/HalfRunwayMarker.ac 8.14904926 49.96656038 227.5150 276.0 0.0 -0.0
+
 #Glider equipment
 OBJECT_SHARED Models/Airport/Vehicle/supacat_winch.xml 8.15748135 49.96802442 224.3474 104.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/Vehicle/supacat_winch.xml 8.14135171 49.96560843 231.1623 272.0 0.0 -0.0
