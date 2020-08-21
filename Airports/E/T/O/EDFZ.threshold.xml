@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<PropertyList>
+  <runway>
+    <threshold>
+      <lon>8.33943272</lon>
+      <lat>50.05258868</lat>
+      <rwy>25</rwy>
+      <hdg-deg>253.15</hdg-deg>
+      <displ-m>0.0</displ-m>
+      <stopw-m>0.0</stopw-m>
+    </threshold>
+    <threshold>
+      <lon>8.31150429</lon>
+      <lat>50.04714765</lat>
+      <rwy>07</rwy>
+      <hdg-deg>73.3</hdg-deg>
+      <displ-m>0.0</displ-m>
+      <stopw-m>0.0</stopw-m>
+    </threshold>
+  </runway>
+</PropertyList>
+
+
+------------------------------ UFO -------------------------------
+Latitude:     50.04718927 deg
+Longitude:    8.31168381 deg
+Altitude ASL: 162.4440 m (532.9526 ft)
+37Heading:      253.3 deg
+Ground Elev:  137.4248 m (450.8689 ft)
+
+# e000n50/e008n50/3089153.stg
+OBJECT_STATIC 8.31168381 50.04718927 137.4248 106.7
+
+http://maps.google.com/maps?ll=50.0471892717,8.3116838090&z=12&t=h
+$ fgfs --aircraft=ufo --lat=50.047189 --lon=8.311684 --altitude=532.95 --heading=200.8
+
+
+------------------------ Selected Object -------------------------
+Path:         Aircraft/ufo/Models/cursor.ac
+Latitude:     50.05258868 deg
+Longitude:    8.33943272 deg
+Altitude ASL: 136.5148 m (447.8833 ft)
+Heading:      0.0 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# 
+OBJECT_SHARED Aircraft/ufo/Models/cursor.ac 8.33943272 50.05258868 136.5148 0.0 0.0 -0.0
+OBJECT_SHARED Aircraft/ufo/Models/cursor.ac 8.31150429 50.04714765 137.4115 0.0 0.0 -0.0
