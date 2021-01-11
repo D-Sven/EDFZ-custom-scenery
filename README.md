@@ -20,6 +20,7 @@ This custom scenery contains:
             shared models, the original tower building and hangars
             multiple parking positions
             osm-2-city-buildings for the city of Mainz (Installation described below)
+            new Layout and shared models for ETOU, Wiesbaden AAF
             For gliders: AI-Towplane-scenario from 26L + AI-thermals for crosscountry-flights
 
 INSTALLATION: Add the folder /EDFZ-custom-scenery/ and /EDFZ-custom-scenery/osm2city/ (optional)
@@ -56,6 +57,9 @@ Find more information and documentation in /DOCU/Thermaling-tutorial-en.pdf
 See the corresponding discussion in the official flightgear forum: 
 https://forum.flightgear.org/viewtopic.php?f=5&t=30349
 
+And the new FlightGear-Wiki article:
+http://wiki.flightgear.org/Mainz-Finthen_Airfield
+
 
 Credits:    Many thanks to D-ECHO for modelling an awesome realistic tower building, some hangar buildings, creating latest NavDat and terrain data!
             Thanks to D-3-m, D-ABBA and D-EKSW for your critics and suggestions!
@@ -88,6 +92,7 @@ Dieses Szenerie-Paket enthält:
             auswählbare Parkpositionen
             osm2city-Gebäude/Straßen/Brücken
             eine vorgefertigte Route der Platzrunde zum Üben
+            neue Rollbahnen und Objekte für ETOU, Wiesbaden AAF
             Für Segelflieger: Ein F-Schlepp-Szenario von der 26L
             + Thermik-Szenarien für einfache Streckensegelflüge!
 
@@ -127,6 +132,9 @@ Eine ausführliche Dokumentation zum Thermikflug in FlightGear findest du in /DO
 
 Hier der Link zum Forumeintrag:
 https://forum.flightgear.org/viewtopic.php?f=5&t=30349
+
+Und zum FlightGear-Wiki Artikel:
+http://wiki.flightgear.org/Mainz-Finthen_Airfield
 
 
 Danksagungen:   Vielen Dank an D-ECHO für den Tower, einige Hangars, brandneues Terrain sowie NavDat! Sieht echt klasse aus!
